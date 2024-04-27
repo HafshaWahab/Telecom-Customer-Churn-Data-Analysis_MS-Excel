@@ -8,14 +8,20 @@ The primary goal was to curtail customer attrition by enhancing the customer exp
 
 ## Findings
 •	Customer Demographics: The highest churn was observed among customers aged 39-58, indicating a potential disconnect with this demographic’s needs or expectations.
+
 •	Service Preferences: Bank withdrawals emerged as the preferred payment method, suggesting a trend towards traditional payment options among churned users. The fiber optic was the most used internet service. 
+
 •	Geographic Trends: San Diego and Los Angeles topped the list of cities with the highest churn rates, pointing to possible regional service issues.
+
 •	Product Insights: Internet services, particularly fiber optic connections, were widely used among customers, highlighting the importance of robust digital offerings.
 
 ## Suggestions to Client
 •	**Enhance Offers:** Roll out more compelling promotions, particularly those similar to Offer E, which resonated well with the target audience.
+
 •	**Improve Customer Service:** Foster a culture of positive and polite customer interactions to build loyalty and trust.
+
 •	**Payment Flexibility:** Simplify payment processes and explore more digital payment options to cater to customer convenience.
+
 •	**Targeted Interventions:** Develop age-specific retention strategies, especially for the 39-58 age group, to address their unique needs.
 
 ## Conclusion
